@@ -10,7 +10,7 @@ How to Run :
 
 1. Open the "Arcade Game" folder.
 2. Find "index.html" file.
-3. Double click the file to open in a browser istalled in your system.
+3. Double click the file to open in a browser installed in your system.
                                ==OR==
    Open your Browser: Press Ctrl+O or Cmd+O and Navigate to "index.html".
 
